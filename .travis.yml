@@ -21,12 +21,8 @@ after_script:
   - git config user.name "ncc0706"
   - git config user.email "ncc0706@gmail.com"
   - sed -i "s/gh_token/${GH_TOKEN}/g" ./_config.yml
-  - git d
+  - hexo d
 # E: Build LifeCycle
-
-branches:
-  only:
-    - hexo
 env:
  global:
    - GH_REF: github.com/4520/blog.git
