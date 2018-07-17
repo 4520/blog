@@ -5,7 +5,7 @@ date: 2018-05-06 13:28:19
 tags: ubuntu
 ---
 
-![爆照](https://blog.xlinyu.com/assets/images/2018-05-06/success.png)
+![爆照](https://arukas-blog.nos-eastchina1.126.net/assets/images/2018-05-06/success.png)
 
 ## 安装sshd
 
