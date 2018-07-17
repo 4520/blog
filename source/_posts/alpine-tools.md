@@ -5,7 +5,7 @@ date: 2018-03-25 20:53:02
 tags: alpine
 ---
 
-![常用工具](https://blog.xlinyu.com/assets/images/2018-03-25/02.jpg)
+![常用工具](https://arukas-blog.nos-eastchina1.126.net/assets/images/2018/03/25/02.jpg)
 
 ```shell
 # 首先学习关机命令

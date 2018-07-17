@@ -5,7 +5,7 @@ date: 2018-03-24 19:46:23
 tags: docker alpine
 ---
 
-![docker on alpine linux](https://blog.xlinyu.com/assets/images/2018-03-25/01.jpg)
+![docker on alpine linux](https://arukas-blog.nos-eastchina1.126.net/assets/images/2018/03/25/01.jpg)
 
 > http://wiki.alpinelinux.org/wiki/Docker
 
