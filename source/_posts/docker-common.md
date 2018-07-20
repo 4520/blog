@@ -5,7 +5,7 @@ date: 2018-02-26 22:15:54
 tags: ['docker']
 ---
 
-![docker](https://blog.xlinyu.com/assets/images/2018-02-26/golden-gate-bridge-1596161_1920.jpg)
+![docker](https://arukas-blog.nos-eastchina1.126.net/assets/images/2018/02/26/golden-gate-bridge-1596161_1920.jpg)
 
 
 
