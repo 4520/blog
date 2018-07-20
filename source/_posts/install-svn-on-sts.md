@@ -30,3 +30,19 @@ svn已迁移到github,可以通过[github](https://github.com/subclipse/subclips
 7. 重启eclipse,查看show view里有插件选项了   大功告成
 
 ![效果图](http://arukas-blog.nos-eastchina1.126.net/assets/images/2018/07/20/769ab8e7-e498-4684-b7ee-3cf6ceff35fb.png)
+
+**高兴的太早了**
+检出项目时报错了
+![](https://dn-coding-net-production-pp.qbox.me/8e522b15-97d9-49ae-8b68-c28accc5abea.png)
+
+查看具体原因
+![](https://dn-coding-net-production-pp.qbox.me/222ffc94-0fbb-42bb-b270-43bfd4d0a6c0.png)
+
+需要安装client
+![](https://dn-coding-net-production-pp.qbox.me/83ec603a-2f7d-4ac3-a54a-5263fff5628c.png)
+
+重启sts，ok。
+
+好吧，好像弄错了，删掉links文件一样可以使用svn。之前的版本确实使用links文件就可以的，能用就好了。
+
+
